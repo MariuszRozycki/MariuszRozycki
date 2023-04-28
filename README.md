@@ -17,7 +17,7 @@ I'm a student of fifth semester of Front-End Development - I'm studing on Noroff
 
 ### I speak:
 * Polish - native
-* Norwegian - advanced
+* Norwegian - advanced B2 (Direktoratet for høyere utdanning og kompetanse)
 * English - advanced
 
 I'm looking forward to take a contact with you :grin:
