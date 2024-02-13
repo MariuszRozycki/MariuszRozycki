@@ -12,6 +12,7 @@ I’m a web developer with nearly two years of experience in front-end developme
 * An auction site is looking to launch a website where users can add items to be bid on and bid on items other users have put up for auction.
 When a new user joins the website, they are given 1000 credits to use on the site. They can get credits by selling items and use
 credit by buying items. Non-registered users can search through the listings, but only registered users can make bids on listings.
+##### [GitHub code: ](https://github.com/MariuszRozycki/auction-gavel)https://github.com/MariuszRozycki/auction-gavel 
 #### [MyClass project <-- click to view live site](https://coruscating-melomakarona-28cd35.netlify.app/)
 * The MyClass application is a basic social media app. It’s one of the many projects I completed during my studies. The application utilizes a straightforward test API. Any photos added to the app should be in URL format.
 #### [TripBlog <-- click to view live site](https://dynamic-twilight-02d190.netlify.app/)
