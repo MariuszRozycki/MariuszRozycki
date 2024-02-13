@@ -7,7 +7,12 @@ I’m a web developer with nearly two years of experience in front-end developme
 * I still improve myself by deep studying of front-end development
 
 ### Check me her:
-* https://mariuszrozycki.info/portfolio/
+* Auction House: https://genuine-squirrel-c1ec8c.netlify.app/
+* MyClass project: https://coruscating-melomakarona-28cd35.netlify.app/
+* TripBlog: https://dynamic-twilight-02d190.netlify.app/
+* Museum of Science: https://wizardly-hugle-cb8551.netlify.app/
+* E-commerce: https://zealous-colden-45315d.netlify.app/
+* https://mariuszrozycki.info/portfoli
 * https://www.linkedin.com/in/mariusz-rozycki/
 
 ### Contact me:
