@@ -13,6 +13,7 @@ I’m a web developer with nearly two years of experience in front-end developme
 * [TripBlog](https://dynamic-twilight-02d190.netlify.app/)
 * [Museum of Science](https://wizardly-hugle-cb8551.netlify.app/)
 * [E-commerce](https://zealous-colden-45315d.netlify.app/)
+* [Alena Skin & Beauty website](https://alenaskinbeauty.no/)
 * [Portfolio, but only three projects are included](https://mariuszrozycki.info/portfolio)
 
 #### My Linkedin:
