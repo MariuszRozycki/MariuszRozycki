@@ -10,7 +10,7 @@ I’m a web developer with nearly two years of experience in front-end developme
 #### My projects:
 * [Auction House](https://genuine-squirrel-c1ec8c.netlify.app/)
 * [MyClass project](https://coruscating-melomakarona-28cd35.netlify.app/)
-* [TripBlog: https](https://dynamic-twilight-02d190.netlify.app/)
+* [TripBlog](https://dynamic-twilight-02d190.netlify.app/)
 * [Museum of Science](https://wizardly-hugle-cb8551.netlify.app/)
 * [E-commerce](https://zealous-colden-45315d.netlify.app/)
 * [Portfolio, but only three projects are included](https://mariuszrozycki.info/portfolio)
