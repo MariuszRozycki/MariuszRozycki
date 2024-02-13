@@ -8,16 +8,25 @@ I’m a web developer with nearly two years of experience in front-end developme
 
 ### Check me her:
 #### My projects:
-* [Auction House](https://genuine-squirrel-c1ec8c.netlify.app/)
-* [MyClass project](https://coruscating-melomakarona-28cd35.netlify.app/)
-* [TripBlog](https://dynamic-twilight-02d190.netlify.app/)
-* [Museum of Science](https://wizardly-hugle-cb8551.netlify.app/)
-* [E-commerce](https://zealous-colden-45315d.netlify.app/)
-* [Alena Skin & Beauty website](https://alenaskinbeauty.no/)
-* [Expenses Calculator](https://chipper-puppy-778809.netlify.app/)
-* [Portfolio, but only three projects are included](https://mariuszrozycki.info/portfolio)
+#### [Auction House <-- click to view live site](https://genuine-squirrel-c1ec8c.netlify.app/)
+* An auction site is looking to launch a website where users can add items to be bid on and bid on items other users have put up for auction.
+When a new user joins the website, they are given 1000 credits to use on the site. They can get credits by selling items and use
+credit by buying items. Non-registered users can search through the listings, but only registered users can make bids on listings.
+#### [MyClass project <-- click to view live site](https://coruscating-melomakarona-28cd35.netlify.app/)
+* The MyClass application is a basic social media app. It’s one of the many projects I completed during my studies. The application utilizes a straightforward test API. Any photos added to the app should be in URL format.
+#### [TripBlog <-- click to view live site](https://dynamic-twilight-02d190.netlify.app/)
+* This is as a cross-curse project. I started to make this project as one among first projects during my study. The project is developed throughout the period of study. The last changes were to create a database on WordPress and use this data in the project. Products are fetched from the WP REST API. Site is built by using HTML, CSS, Java Script. To make a site responsive I used both flexbox and grid. Front-end is written by me - site is Headless CMS.
+#### [Museum of Science <-- click to view live site](https://wizardly-hugle-cb8551.netlify.app/)
+* This is as a first semester project. Project includes design principles, project management, communication technology, and developing with HTML/CSS. The target audience is carefully considered. A prototype of the website is made using Adobe XD. To create this website I used HTML, CSS and pure Java Script.
+#### [Rainy Days -- e-commerce <-- click to view live site](https://zealous-colden-45315d.netlify.app/)
+* This is as a cross-curse project. I started to make this project as one among first projects during my study. The project is developed throughout the period of study. The last changes were to create a database on WordPress and use this data in the project. Products are fetched from the WP REST API. Site is built by using HTML, CSS, Java Script. To make a site responsive I used both flexbox and grid. Front-end is written by me - site is Headless CMS.
+#### [Alena Skin & Beauty website <-- click to view live site](https://alenaskinbeauty.no/)
+* A website for a beauty salon in Oslo that I created. I did both the design and wrote the code. The code is simple, but the website works well and looks nice.
+#### [Expenses Calculator <-- click to view live site](https://chipper-puppy-778809.netlify.app/)
+* Expenses Calculator - budget app buit in React JS. This is one among many small project across React course at React School (pl. Szkola Reacta). User can add incomes, expenses. See result of incomes, expenses and balance between them.
+#### [Portfolio, but only three projects are included](https://mariuszrozycki.info/portfolio)
 
-#### My Linkedin:
+### My Linkedin:
 * [Linkedin profile link](https://www.linkedin.com/in/mariusz-rozycki/)
 
 ### Contact me:
