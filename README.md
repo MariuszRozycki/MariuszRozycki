@@ -27,7 +27,7 @@ credit by buying items. Non-registered users can search through the listings, bu
 * [GitHub code - Rainy Days: ](https://github.com/MariuszRozycki/rainy-days)
 #### [Alena Skin & Beauty <-- click to view live site](https://alenaskinbeauty.no/)
 * A website for a beauty salon in Oslo that I created. I did both the design and wrote the code. The code is simple, but the website works well and looks nice.
-* [GitHub code - Alena Skin & Beauty: https://github.com/MariuszRozycki/skin-beauty]()
+* [GitHub code - Alena Skin & Beauty: ](https://github.com/MariuszRozycki/skin-beauty)
 #### [Expenses Calculator <-- click to view live site](https://chipper-puppy-778809.netlify.app/)
 * Expenses Calculator - budget app buit in React JS. This is one among many small project across React course at React School (pl. Szkola Reacta). User can add incomes, expenses. See result of incomes, expenses and balance between them.
 #### [Portfolio, but only three projects are included](https://mariuszrozycki.info/portfolio)
