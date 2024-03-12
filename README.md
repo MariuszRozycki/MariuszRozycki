@@ -7,6 +7,7 @@ I’m a web developer with three years of experience in front-end development an
 * I still improve myself by deep studying of front-end development
 
 ### Check me her:
+[My Resume <-- click to view](https://acrobat.adobe.com/id/urn:aaid:sc:eu:bbf28167-e177-4b62-ab3f-6a60b5b4fbf9) 
 #### My projects:
 #### [Auction House <-- click to view live site](https://genuine-squirrel-c1ec8c.netlify.app/)
 * An auction site is looking to launch a website where users can add items to be bid on and bid on items other users have put up for auction.
