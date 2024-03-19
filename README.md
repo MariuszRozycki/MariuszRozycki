@@ -9,6 +9,10 @@ I’m a web developer with three years of experience in front-end development an
 ### Check me her:
 [My Resume <-- click to view](https://acrobat.adobe.com/id/urn:aaid:sc:eu:bbf28167-e177-4b62-ab3f-6a60b5b4fbf9) 
 #### My projects:
+#### [Social-App: Quasi Twitter App <-- click to view](https://deploy-preview-10--social-app-academy.netlify.app/)
+* This project it is a quasi Twitter app. The application was built to demonstrate knowledge of React.
+It was created exclusively with functional components and shared hooks.
+* [GitHub code - Social App: ](https://github.com/MariuszRozycki/social-app)https://github.com/MariuszRozycki/social-app
 #### [Auction House <-- click to view live site](https://genuine-squirrel-c1ec8c.netlify.app/)
 * An auction site is looking to launch a website where users can add items to be bid on and bid on items other users have put up for auction.
 When a new user joins the website, they are given 1000 credits to use on the site. They can get credits by selling items and use
