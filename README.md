@@ -8,7 +8,7 @@ My code emphasizes structure, readability, and maintainability, as demonstrated 
 Currently pursuing a degree in Front-end Development (completion expected in March 2025), I have developed a strong foundation in UI design, including visual design, color theory, typography, and branding. My final project, inspired by the "Booking" app, reflects my ability to apply these skills in real-world applications. Fluent in Polish, Norwegian, and English, I am adept at using AI tools to enhance efficiency and productivity in my work.
 
 ### Check me her:
-[My Resume <-- click to view](https://acrobat.adobe.com/id/urn:aaid:sc:eu:bbf28167-e177-4b62-ab3f-6a60b5b4fbf9) 
+[My Resume <-- click to view](https://mariuszrozycki.github.io/portfolio2/resume/mariusz_rozycki-cv-port.pdf) 
 #### My projects:
 #### [Social-App: Quasi Twitter App <-- click to view](https://social-app-academy.netlify.app/)
 * This project it is a quasi Twitter app. The application was built to demonstrate knowledge of React.
