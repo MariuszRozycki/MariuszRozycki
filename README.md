@@ -1,10 +1,11 @@
 ### Something about me:
-Hi! :) I'm Mariusz Rozycki. <br> 
-I’m a web developer with three years of experience in front-end development and testing. Skilled in both independent and collaborative project work, I have adapted to both in-office and remote work environments.
-* As a front-end developer, I specialize in: Html, CSS, Java Script, React.js <br> 
-* I create scalable and modular front-end architectures <br>
-* I focus on creating very well looking websites, writing clear and understandable code <br>
-* I still improve myself by deep studying of front-end development
+Hi! :) I'm Mariusz Rozycki. <br>
+<br>
+I am a front-end developer specializing in JavaScript, with a focus on React and ongoing learning in TypeScript.<br> 
+I have solid skills in HTML, CSS, Sass, Bootstrap, Git, GitHub, REST APIs, and Node.js, using Visual Studio Code as my primary IDE.<br> 
+My code emphasizes structure, readability, and maintainability, as demonstrated in my GitHub repositories.<br>
+<br>
+Currently pursuing a degree in Front-end Development (completion expected in March 2025), I have developed a strong foundation in UI design, including visual design, color theory, typography, and branding. My final project, inspired by the "Booking" app, reflects my ability to apply these skills in real-world applications. Fluent in Polish, Norwegian, and English, I am adept at using AI tools to enhance efficiency and productivity in my work.
 
 ### Check me her:
 [My Resume <-- click to view](https://acrobat.adobe.com/id/urn:aaid:sc:eu:bbf28167-e177-4b62-ab3f-6a60b5b4fbf9) 
