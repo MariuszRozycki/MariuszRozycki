@@ -1,11 +1,11 @@
 # Hi! 👋 I'm Mariusz Rozycki
 
 🚀 **Front-End Developer | React | TypeScript**  
-I'm a passionate **front-end developer** with **4 years of experience**, specializing in **React, ongoing learning journey with TypeScript**, and modern web development. My focus is on creating **scalable, maintainable, and accessible** applications.  
+I'm a passionate **front-end developer** with **4 years of experience**, specializing in **React, ongoing learning journey with TypeScript**, and modern web development. My focus is on creating **scalable, maintainable, and accessible** applications. In addition to front-end development, I am also **learning C# and .NET** to expand my expertise in backend technologies.  
 
 ## 🛠 Tech Stack:
 - **Frontend**: React, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, Bootstrap
-- **Backend & APIs**: Node.js, REST APIs
+- **Backend & APIs**: Node.js, REST APIs, C#, .NET
 - **Testing**: Jest, Playwright, Cypress
 - **Tools**: Git, GitHub, VS Code
 - **UI/UX**: Figma, Adobe XD
