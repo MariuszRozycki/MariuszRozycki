@@ -16,7 +16,7 @@ I'm a passionate **front-end developer** with **4 years of experience**, special
 - ⚡ Passionate about **AI in design, performance optimization, and clean code**.
 
 ## 📂 Check out my work:
-- 🔗 [My Cv/Resume](https://mariuszrozycki.github.io/portfolio2/resume/mariusz_rozycki-cv-port.pdf)
+- 🔗 [My Cv/Resume](https://mariuszrozycki.github.io/portfolio2/resume/mariusz_rozycki-cv-portfolio.pdf)
 - 🌐 [My Portfolio](https://mariuszrozycki.github.io/portfolio2/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mariusz-rozycki/)
    
