@@ -28,7 +28,7 @@ I'm a passionate **front-end developer** with **4 years of experience**, special
 * The design prototype was created in Adobe XD.
 * [GitHub code - Holidaze: ](https://github.com/MariuszRozycki/holidaze)https://github.com/MariuszRozycki/holidaze
   
-#### [TourGuide <-- click to view](https://tour-guide.pl/)
+#### [TourGuide <-- click to view](https://tour-guide-pl.netlify.app/)
 * Tour Guide is a modern web application designed to provide users with an engaging and interactive experience for exploring guided tours.
 * Built using React, Vite, and Bootstrap.
 * The project focuses on delivering a user-friendly interface and responsive design.
@@ -58,15 +58,11 @@ credit by buying items. Non-registered users can search through the listings, bu
 * This is as a cross-curse project. I started to make this project as one among first projects during my study. The project is developed throughout the period of study. The last changes were to create a database on WordPress and use this data in the project. Products are fetched from the WP REST API. Site is built by using HTML, CSS, Java Script. To make a site responsive I used both flexbox and grid. Front-end is written by me - site is Headless CMS.
 * [GitHub code - TripBlog: ](https://github.com/Noroff-FEU-Assignments/project-exam-1-MariuszRozycki)
 
-#### [Museum of Science <-- click to view live site](https://wizardly-hugle-cb8551.netlify.app/)
+#### [Museum of Science <-- click to view live site](https://museum-2021.netlify.app/)
 * This is as a first semester project. Project includes design principles, project management, communication technology, and developing with HTML/CSS. The target audience is carefully considered. A prototype of the website is made using Adobe XD. To create this website I used HTML, CSS and pure Java Script.
 * [GitHub code - Museum of Science: ](https://github.com/MariuszRozycki/museum-of-science)
 
-#### [Rainy Days -- e-commerce <-- click to view live site](https://zealous-colden-45315d.netlify.app/)
-* This is as a cross-curse project. I started to make this project as one among first projects during my study. The project is developed throughout the period of study. The last changes were to create a database on WordPress and use this data in the project. Products are fetched from the WP REST API. Site is built by using HTML, CSS, Java Script. To make a site responsive I used both flexbox and grid. Front-end is written by me - site is Headless CMS.
-* [GitHub code - Rainy Days: ](https://github.com/MariuszRozycki/rainy-days)
-
-#### [Alena Skin & Beauty <-- click to view live site](https://alenaskinbeauty.no/)
+#### [Alena Skin & Beauty <-- click to view live site](https://alena-skin-beauty.netlify.app/)
 * Skin Beauty is a project designed to showcase a beauty and skincare business based in Oslo.
 * The website is built to provide information about services, treatments, and contact details, creating an elegant and user-friendly experience.
 * [GitHub code - Alena Skin & Beauty: ](https://github.com/MariuszRozycki/skin-beauty)
